@@ -13,7 +13,7 @@ namespace WebApplication1
     public class Program
     {
         //Test
-        //Test from browser
+        //Test from browser 2
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
